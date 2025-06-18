@@ -48,8 +48,7 @@ interessi = {
     "principale": "Intelligenza Artificiale & Machine Learning",
     "sviluppo": "Full Stack Development",
     "cloud": "Azure & Docker",
-    "automazione": "Sistemi SCADA",
-    "dati": "Data Science & Analytics"
+    "automazione": "Sistemi SCADA"
 }
 ```
 
